@@ -26,11 +26,13 @@ void Arithmetic_operations()
     scanf("%lf",&ip1);
     total = sqrt(ip1);
     printf("Squareroot result=%lf",total);
-     printf("Enter num to calculate square");
+}
+    /* printf("Enter num to calculate square");
     scanf("%lf",&ip1);
     total = ip1*ip1;
     printf("Square result=%lf",total);
 }
+
 void Relational_operations()
 {
     double ip1,ip2,total;
@@ -65,5 +67,5 @@ int main()
     Arithmetic_operations();
     Relational_operations();
 }
-
+*/
     
