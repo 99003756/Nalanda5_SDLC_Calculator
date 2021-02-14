@@ -3,3 +3,10 @@
 
 
 
+
+![structural class](https://user-images.githubusercontent.com/78871909/107884828-0b584100-6f1d-11eb-85e7-f5ead200d225.jpg)
+
+
+
+
+
